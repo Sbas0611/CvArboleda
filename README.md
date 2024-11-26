@@ -1,47 +1,71 @@
-# Astro Starter Kit: Minimal
+# 🌟 **Portafolio de Desarrollador de Software**
 
-```sh
-npm create astro@latest -- --template minimal
-```
+Bienvenido a mi portafolio personal interactivo. Este proyecto ha sido creado con **Astro**, **Tailwind CSS**, **React** y **Three.js**, con el objetivo de mostrar mis habilidades y proyectos como desarrollador de software de una manera moderna, dinámica e interactiva.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+---
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 🚀 **Tecnologías utilizadas**
 
-## 🚀 Project Structure
+Este portafolio utiliza una combinación de herramientas y tecnologías modernas:
 
-Inside of your Astro project, you'll see the following folders and files:
+- **Astro**: Framework de sitios web estáticos que permite integrar múltiples tecnologías, como React, de forma eficiente.
+- **Tailwind CSS**: Framework de CSS utilitario para crear interfaces de usuario personalizadas y adaptables.
+- **React**: Biblioteca de JavaScript para construir interfaces de usuario interactivas.
+- **Three.js**: Librería JavaScript para crear gráficos 3D en el navegador, agregando interactividad visual a la página de inicio del portafolio.
+- **Vite**: Herramienta de construcción rápida que optimiza el proceso de desarrollo y mejora el rendimiento.
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+---
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+## 📥 **Instalación**
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
-Any static assets, like images, can be placed in the `public/` directory.
+1. **Clona el repositorio:**
+    ```bash
+    git clone https://github.com/tu-usuario/portafolio.git
+    ```
 
-## 🧞 Commands
+2. **Accede al directorio del proyecto:**
+    ```bash
+    cd portafolio
+    ```
 
-All commands are run from the root of the project, from a terminal:
+3. **Instala las dependencias necesarias:**
+    ```bash
+    npm install
+    ```
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+4. **Inicia el servidor de desarrollo:**
+    ```bash
+    npm run dev
+    ```
 
-## 👀 Want to learn more?
+   ¡Ahora puedes ver el portafolio en vivo en [http://localhost:3000](http://localhost:3000)!
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+---
+
+## ✨ **Características**
+
+- **Interactividad 3D**: La página de inicio presenta un gráfico interactivo 3D creado con **Three.js**, que responde al movimiento del ratón, brindando una experiencia dinámica.
+  
+- **Animaciones suaves**: Se utilizan animaciones fluidas y modernas con **Tailwind CSS** para ofrecer una experiencia de usuario atractiva.
+
+- **Proyectos destacados**: La sección de proyectos muestra mis trabajos de desarrollo de software, con enlaces a los repositorios para que puedas explorar el código.
+
+- **Diseño Responsive**: Gracias a **Tailwind CSS**, el portafolio se adapta perfectamente a cualquier dispositivo, ya sea móvil, tablet o escritorio.
+
+- **Modo Oscuro/Claro**: Puedes alternar entre un modo oscuro y un modo claro, ajustando automáticamente el tema de la interfaz.
+
+---
+
+## 📜 **Licencia**
+
+Este proyecto está licenciado bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
+¡Gracias por visitar mi portafolio! Si tienes alguna pregunta o sugerencia, no dudes en [contactarme](mailto:tu-email@dominio.com).
+
+---
+
+**¡Espero que disfrutes explorando mis proyectos!** 🚀
